@@ -1,10 +1,4 @@
-<!-- 
-🌟 GitHub Profile README for Absha Abdulla S 
-Paste this into your profile repo's README.md (repo name = your username)
-Replace "Absha07" with your actual username if different.
--->
 
-<!-- 🎨 Animated Gradient Header -->
 <p align="center">
   <img alt="animated-header" src="data:image/svg+xml;utf8,
   <svg xmlns='http://www.w3.org/2000/svg' width='1000' height='200' viewBox='0 0 1000 200'>
