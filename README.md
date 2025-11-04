@@ -1,27 +1,16 @@
+<!-- 
+🌟 GitHub Profile README for Absha Abdulla S 
+Paste this into your profile repo's README.md (repo name = your username)
+-->
 
+<!-- 🪄 Animated Typing Header -->
 <p align="center">
-  <img alt="animated-header" src="data:image/svg+xml;utf8,
-  <svg xmlns='http://www.w3.org/2000/svg' width='1000' height='200' viewBox='0 0 1000 200'>
-    <defs>
-      <linearGradient id='g' x1='0' x2='1'>
-        <stop offset='0%' stop-color='%23007cf0'>
-          <animate attributeName='stop-color' values='%23007cf0;%2343e97a;%23ff6b6b;%23007cf0' dur='8s' repeatCount='indefinite'/>
-        </stop>
-        <stop offset='100%' stop-color='%23b76ef5'>
-          <animate attributeName='stop-color' values='%23b76ef5;%23ffd86b;%23ff6b6b;%23b76ef5' dur='8s' repeatCount='indefinite'/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width='100%' height='100%' rx='18' fill='url(%23g)'/>
-    <text x='50%' y='60%' text-anchor='middle' font-family='Segoe UI, sans-serif' font-size='36' fill='white' font-weight='bold'>Hi, I'm Absha Abdulla S 👋</text>
-    <text x='50%' y='78%' text-anchor='middle' font-family='Segoe UI, sans-serif' font-size='20' fill='white'>Full-Stack Developer | React • Node • .NET</text>
-  </svg>" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Absha+Abdulla+S+👋;Full+Stack+Developer+%7C+React+•+Node+•+.NET;Turning+Ideas+Into+Code+✨" alt="Typing SVG" />
 </p>
 
----
-
+<!-- 🎨 Gradient Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=007CF0&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code+✨;Full-stack+developer+from+India+💻;Always+learning+something+new+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:B76EF5&height=100&section=header" />
 </p>
 
 ---
@@ -35,6 +24,7 @@ Currently a **Full Stack Java Trainee at QSpiders**, where I’m deep-diving int
 ---
 
 ### ⚙️ Tech Stack
+
 #### 💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -53,6 +43,7 @@ Currently a **Full Stack Java Trainee at QSpiders**, where I’m deep-diving int
 ---
 
 ### 🚀 Featured Projects
+
 | Project | Description | Tech |
 |----------|--------------|------|
 | [**Mind Game**](https://github.com/Absha07/Mind-Game) | A fun React-based logic game | React.js |
@@ -64,6 +55,7 @@ Currently a **Full Stack Java Trainee at QSpiders**, where I’m deep-diving int
 ---
 
 ### 🎓 Experience & Education
+
 - 🧠 **QSpiders** — Java Full Stack Trainee (2025–Present)  
 - 💼 **MMC Solution** — Software Development Intern (Jun–Jul 2023)  
 - 🌐 **NSIC** — Web Development Intern (Jul–Aug 2024)  
@@ -72,6 +64,7 @@ Currently a **Full Stack Java Trainee at QSpiders**, where I’m deep-diving int
 ---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Absha07&show_icons=true&theme=default&count_private=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Absha07&theme=default" />
@@ -84,6 +77,7 @@ Currently a **Full Stack Java Trainee at QSpiders**, where I’m deep-diving int
 ---
 
 ### 🌍 Let's Connect!
+
 <p align="center">
   <a href="mailto:abshaabdulla26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/absha-abdulla-aa8563239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -99,4 +93,9 @@ Currently a **Full Stack Java Trainee at QSpiders**, where I’m deep-diving int
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Absha07&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile-views" />
+</p>
+
+<!-- 🪄 Gradient Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B76EF5,100:007CF0&height=100&section=footer" />
 </p>
